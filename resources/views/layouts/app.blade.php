@@ -14,14 +14,6 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Scripts -->
-  <!-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) -->
-  <link rel="preload" as="style" href="https://ff38ff51-10d1-4397-801a-ce53bd0c1e6b-00-13gls7ei7dqee.sisko.replit.dev/build/assets/app-D-sv12UV.css" />
-  
-  <link rel="modulepreload" href="https://ff38ff51-10d1-4397-801a-ce53bd0c1e6b-00-13gls7ei7dqee.sisko.replit.dev/build/assets/app-CD_ffoPP.js" />
-  
-  <link rel="stylesheet" href="https://ff38ff51-10d1-4397-801a-ce53bd0c1e6b-00-13gls7ei7dqee.sisko.replit.dev/build/assets/app-D-sv12UV.css" />
-  
-  <script type="module" src="https://ff38ff51-10d1-4397-801a-ce53bd0c1e6b-00-13gls7ei7dqee.sisko.replit.dev/build/assets/app-CD_ffoPP.js"></script>
 </head>
 <body>
     <div id="app">
